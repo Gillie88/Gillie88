@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Gillie S. Calanuga, Studying Computer Science at West Visayas State University. 
+I am Gillie S. Calanuga, studying Computer Science at West Visayas State University. 
 
 - 🔭 I’m currently working on: Intro to Artificial Intelligence
 - 🌱 I’m currently learning
